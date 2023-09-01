@@ -1,0 +1,19 @@
+.row{
+    margin: 3rem;
+    
+}
+.row-top{
+    padding-top: 2rem;
+}
+
+.top{
+    background-color: aqua;
+}
+.row-down{
+    padding-bottom: 3rem;
+}
+
+.btn-center{
+    width: 7%;
+    margin-left: 40%;
+}
